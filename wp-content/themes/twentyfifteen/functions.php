@@ -198,7 +198,7 @@ function twentyfifteen_fonts_url() {
 		$fonts_url = add_query_arg( array(
 			'family' => urlencode( implode( '|', $fonts ) ),
 			'subset' => urlencode( $subsets ),
-		), 'https://fonts.googleapis.com/css' );
+		), 'http://fonts.useso.com/css' );
 	}
 
 	return $fonts_url;
@@ -353,3 +353,10 @@ require get_template_directory() . '/inc/template-tags.php';
  * @since Twenty Fifteen 1.0
  */
 require get_template_directory() . '/inc/customizer.php';
+
+function v7v3_get_avatar($avatar) {
+	$avatar = str_replace(array("www.gravatar.com","0.gravatar.com","1.gravatar.com","2.gravatar.com"),
+			"cd.v7v3.com",$avatar);
+	return $avatar;
+}
+add_filter( 'get_avatar', 'v7v3_get_avatar', 10, 3 );
