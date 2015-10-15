@@ -1,0 +1,5 @@
+wp-content/languages/*.mo
+wp-content/languages/*.po
+wp-config.php
+wp-content/languages/themes/*.mo
+wp-content/languages/themes/*.po
