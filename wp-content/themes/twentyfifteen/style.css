@@ -4064,7 +4064,7 @@ p > video {
 		position: fixed;
 		top: 0;
 		left: 0;
-		width: 29.4118%;
+		width: 24.4118%;
 		z-index: 0; /* Fixes flashing bug with scrolling on Safari */
 	}
 
@@ -4078,7 +4078,7 @@ p > video {
 		margin-right: -100%;
 		max-width: 413px;
 		position: relative;
-		width: 29.4118%;
+		width: 24.4118%;
 	}
 
 	.secondary {
