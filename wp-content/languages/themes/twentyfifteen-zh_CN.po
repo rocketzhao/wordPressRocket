@@ -1,0 +1,330 @@
+# Copyright (C) 2015 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Twenty Fifteen 1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/twentyfifteen\n"
+"POT-Creation-Date: 2015-07-27 19:47:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-10-17 19:32+0800\n"
+"Last-Translator: \n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oops! That page can&rsquo;t be found."
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: archive.php:49
+#: index.php:46
+#: search.php:38
+msgid "Previous page"
+msgstr "上一页"
+
+#: archive.php:50
+#: index.php:47
+#: search.php:39
+msgid "Next page"
+msgstr "下一页"
+
+#: archive.php:51
+#: content-link.php:40
+#: content-page.php:29
+#: content.php:42
+#: image.php:63
+#: index.php:48
+#: search.php:40
+msgid "Page"
+msgstr "页"
+
+#: author-bio.php:12
+msgid "Published by"
+msgstr ""
+
+#: author-bio.php:34
+msgid "View all posts by %s"
+msgstr ""
+
+#: comments.php:28
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#. translators: %s: Name of current post
+#: content-link.php:31
+#: content.php:33
+#: inc/template-tags.php:238
+msgid "Continue reading %s"
+msgstr "继续阅读 %s"
+
+#: content-link.php:36
+#: content-page.php:25
+#: content.php:38
+#: image.php:59
+msgid "Pages:"
+msgstr "页数："
+
+#: content-link.php:56
+#: content-page.php:35
+#: content-search.php:28
+#: content-search.php:33
+#: content.php:57
+#: image.php:71
+msgid "Edit"
+msgstr "编辑"
+
+#: content-none.php:15
+msgid "Nothing Found"
+msgstr "什么都没找到"
+
+#: content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "准备发布您的第一篇文章？ <a href=\"%1$s\">从这里开始</a>."
+
+#: content-none.php:26
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "对不起，没有匹配到您的搜索条件。请再次尝试一些不同的关键词。"
+
+#: content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#. #-#-#-#-#  twentyfifteen.pot (Twenty Fifteen 1.3)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "由 %s 强力驱动"
+
+#: functions.php:85
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: functions.php:86
+msgid "Social Links Menu"
+msgstr ""
+
+#: functions.php:133
+msgid "Widget Area"
+msgstr ""
+
+#: functions.php:135
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:161
+msgctxt "Noto Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Noto Serif, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:169
+msgctxt "Noto Serif font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Inconsolata, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:177
+msgctxt "Inconsolata font: on or off"
+msgid "on"
+msgstr ""
+
+#. Translators: To add an additional character subset specific to your
+#. language, translate this to 'greek', 'cyrillic', 'devanagari' or
+#. 'vietnamese'. Do not translate into your own language.
+#: functions.php:185
+msgctxt "Add new subset (greek, cyrillic, devanagari, vietnamese)"
+msgid "no-subset"
+msgstr "没有子集"
+
+#: functions.php:255
+msgid "expand child menu"
+msgstr "展开子菜单"
+
+#: functions.php:256
+msgid "collapse child menu"
+msgstr "收起子菜单"
+
+#: header.php:26
+msgid "Skip to content"
+msgstr "跳到内容"
+
+#: header.php:43
+msgid "Menu and widgets"
+msgstr "菜单和窗口小部件"
+
+#: image.php:24
+msgid "Previous Image"
+msgstr "上一张图"
+
+#: image.php:24
+msgid "Next Image"
+msgstr "下一张图"
+
+#: image.php:84
+msgctxt "Parent post link"
+msgid "<span class=\"meta-nav\">Published in</span><span class=\"post-title\">%title</span>"
+msgstr "<span class=\"meta-nav\">发表在</span><span class=\"post-title\">%title</span>"
+
+#: inc/back-compat.php:37
+#: inc/back-compat.php:47
+#: inc/back-compat.php:60
+msgid "Twenty Fifteen requires at least WordPress version 4.1. You are running version %s. Please upgrade and try again."
+msgstr "Twenty Fifteen 需要不低于 4.1版本的WordPress。 您正在运行的版本是%s。 请升级并再试一次。"
+
+#: inc/customizer.php:31
+msgid "Base Color Scheme"
+msgstr "基本配色方案"
+
+#: inc/customizer.php:46
+msgid "Header and Sidebar Text Color"
+msgstr "头部和侧栏文本颜色"
+
+#: inc/customizer.php:47
+#: inc/customizer.php:63
+#: inc/customizer.php:68
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: inc/customizer.php:62
+msgid "Header and Sidebar Background Color"
+msgstr "头部和边栏背景颜色"
+
+#: inc/customizer.php:92
+msgid "Default"
+msgstr "默认"
+
+#: inc/customizer.php:103
+msgid "Dark"
+msgstr "深色"
+
+#: inc/customizer.php:114
+msgid "Yellow"
+msgstr "黄色"
+
+#: inc/customizer.php:125
+msgid "Pink"
+msgstr "粉色"
+
+#: inc/customizer.php:136
+msgid "Purple"
+msgstr "紫色"
+
+#: inc/customizer.php:147
+msgid "Blue"
+msgstr "蓝色"
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:49
+msgid "Featured"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr "格式"
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr "作者"
+
+#: inc/template-tags.php:91
+#: inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr "，"
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "类别"
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr "标签"
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr "全尺寸"
+
+#. translators: %s: post title
+#: inc/template-tags.php:123
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "留下你的评论<span class=\"screen-reader-text\"> 在 %s</span>"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "搜索结果: %s"
+
+#: single.php:33
+msgid "Next"
+msgstr "下一个"
+
+#: single.php:34
+msgid "Next post:"
+msgstr ""
+
+#: single.php:36
+msgid "Previous"
+msgstr "上一个"
+
+#: single.php:37
+msgid "Previous post:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Twenty Fifteen"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://wordpress.org/themes/twentyfifteen/"
+msgstr "https://wordpress.org/themes/twentyfifteen/"
+
+#. Description of the plugin/theme
+msgid "Our 2015 default theme is clean, blog-focused, and designed for clarity. Twenty Fifteen's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "the WordPress team"
+msgstr "WordPress团队"
+
