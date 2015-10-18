@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2015-10-17 19:32+0800\n"
+"PO-Revision-Date: 2015-10-17 23:45+0800\n"
 "Last-Translator: \n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 
@@ -298,7 +298,7 @@ msgstr "搜索结果: %s"
 
 #: single.php:33
 msgid "Next"
-msgstr "下一个"
+msgstr "下一篇"
 
 #: single.php:34
 msgid "Next post:"
@@ -306,7 +306,7 @@ msgstr ""
 
 #: single.php:36
 msgid "Previous"
-msgstr "上一个"
+msgstr "上一篇"
 
 #: single.php:37
 msgid "Previous post:"

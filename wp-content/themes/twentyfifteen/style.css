@@ -2758,7 +2758,7 @@ p > video {
 	}
 
 	.site-main {
-		padding: 7.6923% 0;
+		padding: 4% 0;
 	}
 
 	.hentry.sticky:not(.has-post-thumbnail) {
@@ -4090,7 +4090,7 @@ p > video {
 	}
 
 	.site-main {
-		padding: 4.3333% 0;
+		padding: 3% 0;
 	}
 
 	.site-content {
@@ -4260,7 +4260,7 @@ p > video {
 	}
 
 	.pagination {
-		margin: 8.333% 8.333% 0;
+		margin: 4% 8.333% 0;
 	}
 
 	.pagination .nav-links {
@@ -4446,13 +4446,13 @@ p > video {
 	}
 
 	.hentry {
-		padding-top: 8.3333%;
+		padding-top: 4%;
 	}
 
 	.hentry + .hentry,
 	.page-header + .hentry,
 	.page-header + .page-content {
-		margin-top: 8.3333%;
+		margin-top: 3%;
 	}
 
 	.post-thumbnail {
@@ -4473,7 +4473,7 @@ p > video {
 
 	.entry-content,
 	.entry-summary {
-		padding: 0 10% 10%;
+		padding: 0 10% 4%;
 	}
 
 	.entry-content h1,
@@ -4558,7 +4558,7 @@ p > video {
 	}
 
 	.entry-footer {
-		padding: 5% 10%;
+		padding: 2% 10%;
 	}
 
 	.posted-on:before,
@@ -5597,7 +5597,7 @@ p > video {
 	.entry-title,
 	.widecolumn h2 {
 		font-size: 39px;
-		font-size: 3.9rem;
+		font-size: 3rem;
 		line-height: 1.2308;
 		margin-bottom: 1.2308em;
 	}
