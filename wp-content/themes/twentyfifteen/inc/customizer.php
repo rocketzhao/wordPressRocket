@@ -304,7 +304,7 @@ function twentyfifteen_get_color_scheme_css( $colors ) {
 		'secondary_sidebar_textcolor' => '',
 		'meta_box_background_color'   => '',
 	) );
-
+	$colors['box_background_color'] = '#f5f5d5';
 	$css = <<<CSS
 	/* Color Scheme */
 
