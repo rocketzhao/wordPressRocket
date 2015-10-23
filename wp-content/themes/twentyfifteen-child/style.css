@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+/*
+ Theme Name:   Twenty Fifteen Child
+ Theme URI:    
+ Description:  Twenty Fifteen Child Theme
+ Author:     
+ Author URI:  
+ Template:     twentyfifteen
+ Version:      1.0.0
+ Tags:         light, one-column, responsive-layout, accessibility-ready
+ Text Domain:  twenty-fifteen-child
+*/
+#footer-sidebar {
+	display: block;
+}
+
+#footer-sidebar1 .widget {
+	margin:15px auto;
+	style:border:none;
+}
+
+#footer-sidebar2 .widget {
+	margin:15px auto;
+	style:border:none;
+}
+
