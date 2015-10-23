@@ -58,7 +58,8 @@
 	</footer><!-- .entry-footer -->
 
 </article><!-- #post-## -->
-	
+
+<!-- 添加广告 -->
 <div id="footer-sidebar" class="secondary">
 	<div id="footer-sidebar1">
 		<?php
