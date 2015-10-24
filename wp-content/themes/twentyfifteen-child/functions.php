@@ -38,7 +38,4 @@ function twentyfifteen_child_widgets_init() {
 }
 add_action( 'widgets_init', 'twentyfifteen_child_widgets_init' );
 
-
-
-
 ?>
