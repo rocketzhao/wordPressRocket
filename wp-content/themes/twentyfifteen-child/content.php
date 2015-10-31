@@ -55,6 +55,7 @@
 	<footer class="entry-footer">
 		<?php twentyfifteen_entry_meta(); ?>
 		<?php if(function_exists('the_views')) { the_views(); } ?>
+		<?php wp_zan();?>
 		<?php edit_post_link( __( 'Edit', 'twentyfifteen' ), '<span class="edit-link">', '</span>' ); ?>
 	</footer><!-- .entry-footer -->
 

@@ -27,3 +27,10 @@
 #colophon .site-info {
 	text-align:center;
 }
+
+.entry-footer a[name=wp-zan]{
+	border-bottom:0px solid #333;
+	margin:15px;
+}
+
+
