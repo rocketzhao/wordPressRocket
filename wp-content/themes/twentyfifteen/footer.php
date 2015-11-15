@@ -30,5 +30,16 @@
 
 <?php wp_footer(); ?>
 
+<script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?35bb4a51a36f5b93952dff56e309a6bb";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
 </body>
 </html>

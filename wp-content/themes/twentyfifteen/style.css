@@ -4097,8 +4097,8 @@ p > video {
 	.site-content {
 		display: block;
 		float: left;
-		margin-left: 22.4118%;
-		width: 77.5882%;
+		margin-left: 18.6118%;
+		width: 81.1882%;
 	}
 
 	body {
@@ -4257,7 +4257,7 @@ p > video {
 	}
 
 	.post-navigation a {
-		padding: 5% 10%;
+		padding: 5% 6%;
 	}
 
 	.pagination {
@@ -4461,7 +4461,7 @@ p > video {
 	}
 
 	.entry-header {
-		padding: 0 10%;
+		padding: 0 6%;
 	}
 
 	.entry-title,
@@ -4475,7 +4475,7 @@ p > video {
 	.entry-content,
 	.entry-summary {
 		font-size: 16px;
-		padding: 0 10% 4%;
+		padding: 0 6% 4%;
 	}
 
 	.entry-content h1,
@@ -4560,7 +4560,7 @@ p > video {
 	}
 
 	.entry-footer {
-		padding: 2% 10%;
+		padding: 2% 6%;
 	}
 
 	.posted-on:before,
@@ -4695,9 +4695,9 @@ p > video {
 
 	.site-footer {
 		float: left;
-		margin: 0 0 0 25.8041%;
+		margin: 0 0 0 22.2211%;
 		padding: 0;
-		width: 70.8235%;
+		width: 74.3882%;
 	}
 
 	.site-info {
